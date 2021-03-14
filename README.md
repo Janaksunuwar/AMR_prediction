@@ -4,4 +4,4 @@ The machine learning algorithms' performance is evaluated in predicting resistan
 The AMR-AST data can be accessed in the Data folder of this repository.
 
 Please refer to the AMR prediction Jupyter Notebook for a reproducible workflow, analysis and visualization of the data for the framework.
-The framework also exports data and 300 dpi figures for better visualization clarity.  
+The framework also exports data and 300 dpi figures for crisp visualization.  
