@@ -1,6 +1,6 @@
 # Description
 
-This repository contains codes underlying the publication
+This repository contains codes and jupyter-notebook underlying the publication
 
 A machine learning framework to predict antibiotic resistance traits and yet unknown genes underlying resistance to specific antibiotics in bacterial strains, Briefings in Bioinformatics, Volume 22, Issue 6, November 2021, bbab179, https://doi.org/10.1093/bib/bbab179
 
